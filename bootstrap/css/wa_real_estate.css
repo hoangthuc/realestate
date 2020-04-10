@@ -1,0 +1,291 @@
+body, td {
+  
+}
+
+a {
+}
+
+a:hover {
+}
+#form-search-bds-sales,
+#form-search-bds-buy{
+     display: inline-block;
+}
+.count-search font{
+     color: #03D3E8;
+    font-weight: bold;
+}
+.bottom-content {
+    background-color: #f5f5f5;
+    clear: both;
+    font-size: 12px;
+}
+.bottom-content > div {
+    display: inline-block;
+    padding-right: 3px !important;
+}
+.bottom-content > div label{
+    font-size: 0;
+    display: none;
+}
+.bottom-content > div [class^="icon-"] {
+    display: inline-block;
+    width: 16px;
+    height: 20px;
+    margin-right: 8px;
+    vertical-align: -5px;
+}
+.bottom-content > div .icon-area {
+    background: url(../images/icon-size.png) no-repeat left center;
+}
+.bottom-content > div  .icon-bed {
+    background: url(../images/icon-bed.png) no-repeat left center;
+}
+.bottom-content > div .icon-bath {
+    background: url(../images/icon-bath.png) no-repeat left center;
+}
+.bottom-content > div .icon-garage {
+    background: url(../images/icon-garage.png) no-repeat left center;
+}
+#search_bds  a,
+#search_bds  .bottom-content{
+    top:auto;
+    position: relative;
+}
+#content{
+    padding-bottom: 60px;
+    padding-right: 0;
+}
+#content:before,
+#content:after{
+    display: table;
+    content: " ";
+    clear: both;
+}
+.posts{margin-bottom: 10px;}
+ #search_bds .bottom-content{
+        clear: both;
+        background-color: #f5f5f5;
+}
+ .bottom-content > div {
+     padding: 15px 5px;
+    border-right: 1px solid #dedede;
+}
+.bottom-content > div:last-child{
+border-right:none;
+}
+ .posts article{
+  border: 1px solid #dedede;  
+  margin-top: 5px;
+     background-color: #fff;
+}
+ .posts article h4 {
+     padding: 5px 15px;
+    height: 55px;
+     overflow: hidden;
+}
+
+body.single-nha_dat h1 {
+    font-size: 22px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, Tahoma, sans-serif;
+    font-weight: normal;
+    color: #394041;
+    word-spacing: -1px;
+}
+.information h3 {
+    text-align: center;
+    background: #AF0808;
+    color: #fff;
+    padding: 10px 0;
+    text-transform: uppercase;
+    margin-top: 4px;
+}
+.information ul{
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+.information ul li {
+    padding: 5px 5px;
+    font-size: 12px;
+    clear: both;
+    position: relative;
+    border-top: 1px solid rgb(222, 222, 222);
+    border-left: 1px solid #DEDEDE;
+    border-right: 1px solid #DEDEDE;
+    line-height: 20px;
+        border-color: #dedede;
+}
+.information ul li:last-child 
+{
+  border-bottom: 1px solid #DEDEDE;
+}
+.information ul li:before,
+.information ul li:after{
+    display: table;
+    content:" ";
+    clear: both;
+}
+.information ul li .label_realty {
+    width: 50%;
+    float: left;
+    font-weight: bold;
+}
+.information ul li .content {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+.realty_related ul{
+    list-style: none;
+    padding: 0;
+}
+.realty_related .content a{
+        font-size: 15px;
+    font-weight: bold;
+    display: block;
+}
+.label-realty{font-weight: bold;}
+.air_conditioner
+{
+  display:none !important;
+}
+.price{
+        min-height: 40px;
+}
+.contact-nha-dat,.image-slide
+{
+ float:left;
+}
+
+.fileinput-button{
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+.fileinput-button input[type="file"]{
+    position: absolute;
+    top:0;
+    left:0;
+    opacity:0;
+    cursor: pointer;
+}
+#post_realty .input-group{
+    width: 100%;
+}
+#content .content{
+    font-size: 13px;
+}
+.img {
+    position: relative;
+}
+.img span {
+    padding: 5px 10px;
+    background: rgb(236, 137, 77) none repeat scroll 0% 0%;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color: #FFF;
+}
+.content > .deription {
+    min-height: 140px;
+}
+.banner-search{
+    background-image: url(../images/bn-new-nv-2-d8b297ccfd.jpg);
+    background-position: top center;
+    background-size: cover;
+    padding: 15px 0px;
+    margin-bottom: 20px;
+}
+
+.container .content-sidebar > div{
+    border: 1px solid rgba(0, 0, 0, 0.09);
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.uk-panel-title {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 300;
+    text-transform: none;
+}
+.cat-item {
+    padding: 8px 0px;
+    font-size: 16px;
+    color: rgb(236, 137, 77);
+    border-bottom: 1px dashed rgb(255, 255, 255);
+}
+.taxomony-nha-dat .uk-panel-title {
+    padding: 8px;
+    background: rgb(51, 51, 51) linear-gradient(to right, rgb(78, 129, 189), rgb(52, 82, 117)) repeat scroll 0% 0%;
+    color: rgb(255, 255, 255);
+}
+.single-nha-dat{
+    margin-top: 20px;
+}
+.breadcrumb {
+    background-color: #fff;
+    border-radius: 4px;
+    list-style: outside none none;
+    margin-bottom: -19px;
+    padding: 9px 0px 9px 35px;
+    margin-left: -15px;
+    margin-bottom: 20px;
+}
+.single .single-nha-dat .form-search-bds{
+    border: 0;
+}
+.information-detail h3, legend h3 ,.realty_related h3{
+    text-transform: uppercase;
+    display: inline-block;
+    background: rgb(2, 134, 208) none repeat scroll 0% 0%;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    font-size: 16px;
+}
+.col-md-full{
+    margin-bottom: 15px;
+}
+.col-md-full:after{
+    content: "";
+    clear: both;
+    display: block;
+}
+.img-responsive {
+    width: 100%;
+}
+.post_thumnai, .img, .img-responsive {
+    height: 100px;
+}
+.container-fluid, .deription {
+    padding: 0px;
+}
+.price {
+    padding: 3px;
+    background: rgb(77, 199, 236) none repeat scroll 0% 0%;
+    line-height: 10px;
+    color: rgb(255, 255, 255);
+    padding-left: 5px;
+    padding-top: 8px;
+    min-height: 40px;
+}
+.address {
+    height: 60px;
+}
+.posts {
+    padding-right: 0px;
+}
+.category-bat-dong-san{
+    margin-top: 30px;
+}
+.title-category-nha-dat{
+    font-size: 26px;
+    margin-top: 5px;
+    margin-left: 15px;
+    padding: 7px 0;
+    border-bottom: 2px solid #c5c0c0;
+    font-weight: 500;
+}
