@@ -2,7 +2,7 @@
   /*
 Plugin Name: Plugin Bất động sản
 Description: You can create wordpress user listing on front page. A search functionality will give your visitor more comfort in finding any user.Visitor can also see more information by click on Visit info link and popup will show with admin selected fields. Short code: [wp_squares]
-Version: 1.0
+Version: 3.9
 Author: HOANG THUC
 Author URI: http://www.hoangthuc.com
 Text Domain: wa_real_estate
